@@ -7,3 +7,5 @@ build.xml
 .settings
 .idea/*
 app.yaml
+node_modules
+src/bower_components
